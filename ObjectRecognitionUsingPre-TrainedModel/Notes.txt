@@ -1,0 +1,2 @@
+https://ebenezertechs.com/mobilenet-ssd-using-opencv-3-4-1-deep-learning-module-python/
+-to find the classes or labels of the model
